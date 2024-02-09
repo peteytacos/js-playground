@@ -1,7 +1,13 @@
-let name, admin;
+// let name, admin;
 
-name = "John";
+// name = "John";
 
-admin = name;
+// admin = name;
 
-alert(admin);
+// alert(admin);
+
+// let ourPlanetName = "Earth";
+
+// let currentUserName = "John";
+
+console.log(23 + 97);
