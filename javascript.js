@@ -52,15 +52,25 @@
 
 //
 
+//call an alert with an embedded variable using backtics
+
 // let name = "John";
 
 // // embed a variable
 // alert(`Hello, ${name}!`); // Hello, John!
+
+//
 
 //boolean values
 
 // let isGreater = 4 > 1;
 
 // alert(isGreater); // true (the comparison result is "yes")
+
+//
+
+// typeof operator
+
+// console.log(typeof alert);
 
 //
