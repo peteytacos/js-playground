@@ -13,3 +13,11 @@ h1 {
   font-size: 16px;
   margin-top: 64px;
 }
+
+p {
+  color: white;
+}
+
+label {
+  color: white;
+}
