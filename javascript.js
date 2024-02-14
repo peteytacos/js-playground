@@ -170,3 +170,19 @@
 //
 
 //
+// let clickCount = 0;
+// $('#button-variables-number').addEventListener('click', () => {
+//   console.log('I was pressed ${++clickCount} times by now');
+// });
+
+// let clickCount = 0;
+// document.querySelector('#button-variables-number').addEventListener('click', () => {
+//   console.log(`I was pressed ${++clickCount} times by now`);
+// });
+
+// import $ from 'jquery';
+
+// let clickCount = 0;
+// $('#button-variables-number').on('click', () => {
+//   console.log(`I was pressed ${++clickCount} times by now`);
+// });

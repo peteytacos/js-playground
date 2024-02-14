@@ -6,6 +6,9 @@
     <script src="javascript.js"></script>
     <link rel="stylesheet" href="styles.css" />
     <title>JS PLAYGROUJND</title>
+    <!-- Latest jQuery version -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
   </head>
   <body>
     <h1>javascriptPlayground</h1>
@@ -21,5 +24,20 @@
     </select>
 
     <p></p> -->
+    <!-- End. -->
+
+    <!-- This code is for the number counter javascript -->
+    <!-- <div class="button">
+      <button id="button-variables-number">++Number</button>
+    </div> -->
+    <button id="button-variables-number" class="button">Click Me</button>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        let clickCount = 0;
+        $('#button-variables-number').on('click', () => {
+          console.log(`I was pressed ${++clickCount} times by now`);
+        });
+    </script>
+
   </body>
 </html>
