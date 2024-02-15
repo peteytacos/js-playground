@@ -186,3 +186,20 @@
 // $('#button-variables-number').on('click', () => {
 //   console.log(`I was pressed ${++clickCount} times by now`);
 // });
+
+
+//fizzbuzz attempt 1
+// let answer = parseInt(prompt("Please enter the number you would like to FizzBuzz up to: "));
+
+// for (let i = 1; i <= answer; i++) {
+//   if (i % 3 === 0 && i % 5 === 0) {
+//     console.log("fizzbuzz");
+//   } if (i % 3 === 0) {
+//     console.log("fizz");
+//   }
+//   if (i % 5 === 0) {
+//     console.log("buzz");
+//   } else {
+//     console.log(i);
+//   }
+// }
