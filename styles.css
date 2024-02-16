@@ -7,9 +7,24 @@ body {
   background: black;
 }
 
+/* Normal css follows */
 h1 {
   color: rgb(76, 89, 170);
   text-align: center;
   font-size: 16px;
   margin-top: 64px;
+}
+
+p {
+  color: white;
+}
+
+label {
+  color: white;
+}
+
+.button {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
 }
