@@ -224,7 +224,16 @@
 // const btn = document.querySelector('#btn');
 // btn.onclick = () => alert("Hello World");
 
-const btn = document.querySelector('#btn');
-btn.addEventListener('click', () => {
-  alert("Hello World");
-});
+// const btn = document.querySelector('#btn');
+// btn.addEventListener('click', () => {
+//   alert("Hello World");
+// });
+
+const fruits = ["Apple", "Banana", "Orange"];
+for (x 
+of
+ 
+fruits
+) {
+  console.log(x);
+}
