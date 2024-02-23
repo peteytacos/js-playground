@@ -229,7 +229,7 @@
 //   alert("Hello World");
 // });
 
-const fruits = ["Apple", "Banana", "Orange"];
-for (x of fruits) {
-  console.log(x);
-}
+// const fruits = ["Apple", "Banana", "Orange"];
+// for (x of fruits) {
+//   console.log(x);
+// }
